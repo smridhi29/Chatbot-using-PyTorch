@@ -12,8 +12,8 @@ To use this chatbot, you will need to have Python 3.x installed on your machine.
 
 Next, you will need to install the following libraries:
 
-PyTorch
-NLTK
+*PyTorch
+*NLTK
 You can install these libraries using pip, the Python package manager, by running the following commands in your terminal:
 
 ```bash
