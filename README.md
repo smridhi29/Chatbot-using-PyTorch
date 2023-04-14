@@ -11,9 +11,7 @@ This chatbot was created using PyTorch, a popular deep learning framework, and N
 To use this chatbot, you will need to have Python 3.x installed on your machine. You can download the latest version of Python from the official website.
 
 Next, you will need to install the following libraries:
-Markup : * PyTorch
-
-* NLTK
+Markup : * PyTorch * NLTK
 You can install these libraries using pip, the Python package manager, by running the following commands in your terminal:
 
 ```bash
