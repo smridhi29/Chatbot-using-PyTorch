@@ -1,5 +1,5 @@
 
-# Project Title
+# Chatbot
 
 This chatbot was created using PyTorch, a popular deep learning framework, and NLTK, a natural language processing library for Python. The chatbot is capable of having basic conversations with users and answering their questions.
 
