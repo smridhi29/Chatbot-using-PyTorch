@@ -1,0 +1,147 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "How are you",
+        "Is anyone there?",
+        "Hello",
+        "Good day",
+        "Greetings",
+        "What's up?",
+        "Yo",
+        "Hi there",
+        "Good morning",
+        "Good afternoon",
+        "Good evening",
+        "Hello friend",
+        "Hola",
+        "Bonjour",
+        "Heya"
+      ],
+      "responses": [
+        "Hey :-)",
+        "Hello, thanks for visiting",
+        "Hi there, what can I do for you?",
+        "Hi there, how can I help?",
+        "Hi! I'm here to help.",
+        "Hi, what brings you here today?",
+        "Hey, how's it going?",
+        "Hello! I'm glad you're here.",
+        "Hi, it's great to have you here!",
+        "Greetings, how can I be of service?",
+        "Hello! How can I make your day better?",
+        "Hello there! I'm here to chat.",
+        "Hey, how can I assist you today?",
+        "Hi, how are you doing?",
+        "Hey! What can I help you with?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Bye", "See you later", "Goodbye"],
+      "responses": [
+        "See you later, thanks for visiting",
+        "Have a nice day",
+        "Bye! Come back again soon.",
+        "Goodbye and take care!",
+        "Farewell, have a great day!",
+        "Goodbye! It was nice talking to you.",
+        "Adios! Until next time.",
+        "Take care and see you soon!",
+        "Bye for now!"
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["Thanks", "Thank you", "That's helpful", "Thank's a lot!"],
+      "responses": [
+        "Happy to help!",
+        "Any time!",
+        "My pleasure",
+        "Glad to be of assistance!",
+        "No problem, always happy to help!",
+        "Don't mention it!",
+        "It was my pleasure!",
+        "You got it!",
+        "Anytime, happy to assist!"
+      ]
+    },
+    {
+      "tag": "items",
+      "patterns": [
+        "Which items do you have?",
+        "What kinds of items are there?",
+        "What do you sell?"
+      ],
+      "responses": ["We sell burgers and fries", "We have burgers and fries", "Our menu includes burgers and fries","Our specialty is Mediterranean cuisine"]
+    },
+    {
+      "tag": "payments",
+      "patterns": [
+        "What forms of payment do you accept?",
+    "Do you take American Express?",
+    "Can I pay with a debit card?",
+    "Is Apple Pay accepted?",
+    "Do you offer payment plans?",
+    "Can I split the payment between multiple cards?",
+    "What is your payment policy?",
+    "Are there any fees for using a credit card?",
+    "Can I pay with a personal check?",
+    "Do you offer financing options?",
+    "What currency do you accept?",
+    "Do you have a minimum payment requirement?",
+    "Are gift cards accepted?",
+    "Can I use a prepaid card to pay?",
+    "Is online payment available?",
+        "Do you take credit cards?",
+        "Do you accept Mastercard?",
+        "Can I pay with Paypal?",
+        "Are you cash only?"
+      ],
+      "responses": [
+        "We accept VISA, Mastercard and Paypal",
+        "We accept most major credit cards, and Paypal"
+      ]
+    },
+    {
+      "tag": "delivery",
+      "patterns": [
+        "How long does delivery take for burgers and fries?",
+        "What's the delivery time for food items?",
+        "When can I expect my order to arrive?"
+      ],
+      "responses": [
+        "Our standard delivery time for burgers and fries is 30-45 minutes, depending on your location. For other food items, delivery time may vary based on the complexity of the dish and the distance from our restaurant.",
+        "We strive to deliver all food items as quickly as possible, typically within 30-45 minutes for burgers and fries. However, delivery time may vary based on the specific item and your location.",
+        "We understand that prompt delivery is important to our customers, and we do our best to deliver all orders within 30-45 minutes for burgers and fries. If you have any questions or concerns about your delivery, please contact our customer service team."
+      ]
+    },
+    {
+      "tag": "funny",
+      "patterns": [
+        "Tell me a joke!",
+        "Tell me something funny!",
+        "Do you know a joke?"
+      ],
+      "responses": [
+        "Why did the hipster burn his mouth? He drank the coffee before it was cool.",
+        "What did the buffalo say when his son left for college? Bison."
+      ]
+    },
+    {
+      "tag": "Sales",
+      "patterns": [
+        "Do you have any discounts or promotions available right now?",
+        "Do you offer any warranties or guarantees on your products?"
+        
+      ],
+      "responses": [
+        "Absolutely, we offer a satisfaction guarantee on all of our burgers and fries. We're committed to providing high-quality food that you can rely on.",
+        "Yes, we currently have a promotion running on our burger and fries combo. Would you like more information?"
+      ]
+    }
+  ]
+}
