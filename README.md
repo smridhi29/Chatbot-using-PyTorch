@@ -12,7 +12,7 @@ To use this chatbot, you will need to have Python 3.x installed on your machine.
 
 Next, you will need to install the following libraries:
 1. PyTorch
-2. NLTK
+2. NLTK  
 You can install these libraries using pip, the Python package manager, by running the following commands in your terminal:
 
 ```bash
@@ -21,7 +21,7 @@ pip install nltk
 
 ```
 Once you have installed these libraries, you can download the source code for the chatbot from the GitHub repository.
-## Usage/Examples
+## Usage
 To use the chatbot, simply run the chat.py script in your terminal:
 ```javascript
 python chat.py
